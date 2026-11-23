@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mehnaz Fatima
 
-<!--
-**fatimamehnaz003/fatimamehnaz003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering student at United International University. I've been building small, complete projects, mostly in web development and machine learning. I use this profile to keep my projects and progress in one place.
+## Skills
 
-Here are some ideas to get you started:
+- **Languages:** C, Java, Python, JavaScript, PHP, HTML, CSS
+- **Frameworks and libraries:** Flask, Node.js, PyTorch, scikit-learn, pandas
+- **Databases:** MySQL, SQLite
+- **Tools:** Git, Figma
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**[Spam and Phishing Email Detection](https://github.com/fatimamehnaz003/Spam-and-phishing-email-filtering-using-deep-learning)**
+A text classifier built with PyTorch that labels emails as legitimate, spam or phishing. Python, PyTorch.
+
+**[Urban Loom](https://github.com/fatimamehnaz003/<urban-loom-repo-name>)**
+A multi-page online clothing store with a REST API, a SQLite database, a cart and order checkout. Node.js, SQLite, JavaScript.
+
