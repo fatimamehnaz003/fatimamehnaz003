@@ -13,6 +13,6 @@ I'm a Computer Science and Engineering student at United International Universit
 **[Spam and Phishing Email Detection](https://github.com/fatimamehnaz003/Spam-and-phishing-email-filtering-using-deep-learning)**
 A text classifier built with PyTorch that labels emails as legitimate, spam or phishing. Python, PyTorch.
 
-**[Urban Loom](https://github.com/fatimamehnaz003/<urban-loom-repo-name>)**
+**[UrbanLoom](https://github.com/fatimamehnaz003/UrbanLoom)**
 A multi-page online clothing store with a REST API, a SQLite database, a cart and order checkout. Node.js, SQLite, JavaScript.
 
